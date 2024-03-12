@@ -24,7 +24,7 @@ My interests are broad, but I have a particular passion for:
 
 I'm an active contributor to the tech community. You'll find me sharing my knowledge and experience on various platforms, and of course, contributing to open-source projects here on GitHub.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=DSpirit)](https://github.com/DSpirit/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DSpirit&theme=onedark)](https://github.com/DSpirit/github-profile-trophy)
 
 ## 🤝 Let's Connect
 
